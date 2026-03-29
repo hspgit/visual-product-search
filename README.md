@@ -24,3 +24,8 @@ The system utilizes deep learning to bridge the gap between pixel data and seman
 * **Feature Extraction**: Leveraging Convolutional Neural Networks (CNNs) or Vision Transformers to extract high-dimensional embeddings from product images.
 * **Similarity Search**: Implementing efficient vector search to find the nearest neighbors in the embedding space.
 * **Evaluation Pipeline**: A benchmarking suite to compare visual search results against traditional keyword-based metadata
+
+## Example Usage
+
+![Example usage](example.png)
+
